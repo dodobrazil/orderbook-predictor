@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.keras
+token.pickle
+client_secrets.json
+.cache
